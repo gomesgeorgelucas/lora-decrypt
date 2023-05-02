@@ -1,0 +1,9 @@
+{
+  "name": "lora-decrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lora-packet": "^0.8.19"
+  }
+}
